@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/" />
+    <output-test url="file://$MODULE_DIR$/" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/sample" />
+      <excludeFolder url="file://$MODULE_DIR$/sampleex" />
+      <excludeFolder url="file://$MODULE_DIR$/sampleteam" />
+      <excludeFolder url="file://$MODULE_DIR$/samplesentry" />
+    </content>
+    <content url="file://$MODULE_DIR$/Mohitto" />
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="robocode 1.9.4.32" level="project" />
+  </component>
+</module>
